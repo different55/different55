@@ -1,0 +1,65 @@
+@font-face {
+	font-family: 'WorkSans';
+	src: local('Work Sans Light'),
+	     local('WorkSans-Light'),
+	     url('/fonts/WorkSans/WorkSans-Light.woff2') format('woff2'),
+	     url('/fonts/WorkSans/WorkSans-Light.woff') format('woff'),
+	     url('/fonts/WorkSans/WorkSans-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'WorkSans';
+	src: local('Work Sans ExtraLight'),
+	     local('WorkSans-ExtraLight'),
+	     url('/fonts/WorkSans/WorkSans-ExtraLight.woff2') format('woff2'),
+	     url('/fonts/WorkSans/WorkSans-ExtraLight.woff') format('woff'),
+	     url('/fonts/WorkSans/WorkSans-ExtraLight.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto'),
+	     local('Roboto-Regular'),
+	     url('/fonts/Roboto/Roboto-Regular.woff2') format('woff2'),
+	     url('/fonts/Roboto/Roboto-Regular.woff') format('woff'),
+	     url('/fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+	font-weight: 400;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto Italic'),
+	     local('Roboto-Italic'),
+	     url('/fonts/Roboto/Roboto-Italic.woff2') format('woff2'),
+	     url('/fonts/Roboto/Roboto-Itatic.woff') format('woff'),
+	     url('/fonts/Roboto/Roboto-Italic.ttf') format('truetype');
+	font-weight: 400;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto Bold'),
+	     local('Roboto-Bold'),
+	     url('/fonts/Roboto/Roboto-Bold.woff2') format('woff2'),
+	     url('/fonts/Roboto/Roboto-Bold.woff') format('woff'),
+	     url('/fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Roboto';
+	src: local('Roboto Bold Italic'),
+	     local('Roboto-BoldItalic'),
+	     url('/fonts/Roboto/Roboto-BoldItalic.woff2') format('woff2'),
+	     url('/fonts/Roboto/Roboto-BoldItatic.woff') format('woff'),
+	     url('/fonts/Roboto/Roboto-BoldItalic.ttf') format('truetype');
+	font-weight: 600;
+	font-style: italic;
+}
